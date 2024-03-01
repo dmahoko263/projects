@@ -1,0 +1,11 @@
+﻿Company,Age,Gender,Ethnicity,Educational Background,Professional Experience,Corporate Fraud
+xyz,42,Male,Hispanic,Bachelor's Degree,15,Yes
+abc,35,Female,Asian,Master's Degree,10,No
+pqr,28,Male,White,Bachelor's Degree,5,No
+lmn,39,Female,Black,Ph.D.,20,Yes
+def,45,Male,Hispanic,High School Diploma,25,No
+ghi,31,Female,Asian,Bachelor's Degree,8,No
+jkl,50,Male,White,Associate Degree,30,Yes
+mno,29,Female,Black,Master's Degree,12,No
+rst,47,Male,Hispanic,Ph.D.,18,Yes
+uvw,33,Female,White,Bachelor's Degree,7,No
